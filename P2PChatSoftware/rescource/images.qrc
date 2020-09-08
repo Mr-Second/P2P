@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/begin.ico</file>
+    <file>images/stop.png</file>
+    <file>images/chatting.ico</file>
+    <file>images/start.ico</file>
+    <file>images/bg1.jpg</file>
+    <file>images/client.png</file>
+    <file>images/windowIcon.ico</file>
+  </qresource>
+</RCC>
